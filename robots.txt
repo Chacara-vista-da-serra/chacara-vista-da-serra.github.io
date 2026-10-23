@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chacara-vista-da-serra.github.io/sitemap.xml
