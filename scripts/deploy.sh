@@ -19,4 +19,4 @@ git -c user.name="$(git -C "$OLDPWD" config user.name)" -c user.email="$(git -C 
 git push -q -f "$REMOTE" gh-pages
 cd - >/dev/null
 rm -rf "$TMP"
-echo "Publicado: https://winicius777.github.io/chacara-vista-da-serra/"
+echo "Publicado: https://chacara-vista-da-serra.github.io/"

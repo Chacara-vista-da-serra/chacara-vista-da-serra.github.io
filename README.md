@@ -2,7 +2,7 @@
 
 Landing page de locação da Chácara Vista da Serra (Congonhas - MG).
 
-**Site:** https://winicius777.github.io/chacara-vista-da-serra/
+**Site:** https://chacara-vista-da-serra.github.io/
 
 Stack: React + TypeScript + Vite, CSS próprio, ícones Lucide. Site 100% estático, sem backend.
 
@@ -55,5 +55,4 @@ npm run deploy
 O comando roda lint, testes e build, e envia a pasta `dist/` para a branch `gh-pages`.
 O código-fonte fica na branch `main`.
 
-Se mudar para um domínio próprio, troque `base` em `vite.config.ts` para `'/'`
-e atualize o endereço em `index.html`, `public/robots.txt`, `public/sitemap.xml` e `SITE.url`.
+Se mudar para um domínio próprio, atualize o endereço em `index.html`, `public/robots.txt`, `public/sitemap.xml` e `SITE.url`.

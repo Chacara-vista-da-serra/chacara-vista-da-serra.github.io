@@ -23,7 +23,7 @@ export const SITE = {
   state: 'Minas Gerais',
   stateCode: 'MG',
   /** Endereço público definitivo (usado em SEO). */
-  url: 'https://winicius777.github.io/chacara-vista-da-serra/',
+  url: 'https://chacara-vista-da-serra.github.io/',
   timeZone: 'America/Sao_Paulo',
 } as const
 

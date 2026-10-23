@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://winicius777.github.io/chacara-vista-da-serra/sitemap.xml
+Sitemap: https://chacara-vista-da-serra.github.io/sitemap.xml
